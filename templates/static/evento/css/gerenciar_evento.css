@@ -1,0 +1,19 @@
+.table{
+    width: 100%;
+    padding: 20px;
+}
+
+.linha{
+    height: 40px;
+    background-color: var(--main-color);
+    padding: 20px;
+}
+
+
+td, th{
+    padding: 20px;
+}
+
+body {
+    height: 100vh;
+}
